@@ -11,4 +11,4 @@ You should NOT try to redefine any of the above variables.
 
 const ageIsValid = Number.isInteger(currentAge)
 
-const randomNumber = (Math.random();
+const randomNumber = (Math.random()*10) + 10;
