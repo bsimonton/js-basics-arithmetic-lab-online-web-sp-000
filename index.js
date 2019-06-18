@@ -9,4 +9,5 @@ You should NOT try to redefine any of the above variables.
 // Write your code below this line!
 
 
-const ageIsValid = 
+const ageIsValid = Number.isInteger(currentAge)
+
